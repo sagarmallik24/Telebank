@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telebank",
+  "private_key_id": "c73ca4f596e05497b99ae1c81afdfa23d15ef46d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtYNAfulcQ4jq8\nQq+Acy4pAUESFEq/yDi9bD0e3B4x/rDlsCKOxyubqLXuprJKNDdUrHXRU+UAvao+\nMbP99S6aZcRZidqtKI+RbcNapyFzaa2Vlv1XfRaUqK1NKZmCujVno+jD1mISxBEw\nnBS3CAhcuZy8VLTqqPLoqEFqklsF4FyH9oGXrnRw0B3JCsPSOAKSPBzhl8pj6K3f\nbwCdsDxOZhHHGCzu+b+rhaKX8T16ZMkg97xVvCVnQauXNZu5zwsIuSj78w/XDTLg\nRxXCAfwGmG+jXn6P2IfQvMdHvrgeMJJfirA98HjN2WjEOGEu12MyQ/sCna5VkEVQ\n5tvPET/BAgMBAAECggEAGV/TZelYJ7zsWrQpylNRHKg11UcJ/5J2l2Z5dYRCmQ+M\n5TjHffzxSWlCIyjbbBfDR02sOpQcLmUTvuF4VcEl7mvZdj9CNVh71o1pa2GNeD4t\nrPh5oG3KubwMDQB7GpJVEZOAE/VSyitO1r3pHDZ9PtDdewSsq7FJR7qkREwiLTRA\nphBTrJJvKmBEH8iEZDwJNPCs4aFXMlreWPhKHsSL4GYlqNrgJCyyzx1m6rXutJTw\n5riHLCJ6Cpjj6FFjzo92vMItNadHMH0HHqvP+7NbCacr2iAytMYOCU5id2KsPlrT\n7OBhTB5wTCoT3ph8klyagGJTtTet9VkHZR5A+odXNwKBgQDeBwvjCoi5QIiQPj3C\nRgVUBJKgm5HAdtaYPLzCV+cQ2njol6SaSZg8WdqCEVaSb4e/9WUVHqklvkYwlc0s\nwGEMp8oyga1C9xFfb86BdIoDTH6Ii2z/H8zAm5J2dtH5VrKvu3Em2uXVirecaNJI\n9suj2Pl9nE1oaknlsZH/XC8a2wKBgQDH6CRRQkqjNmFLsibhhqKOSRI1p/wCAdV9\n/E4m+G7RuLTo1cH9MT4KwCW2+dteHuCSnvT4QYGSZsCPwGwnSRfNgLXmWQ6RpF14\nMXhqQG9KdzyFF5hUevtoomJU02c8pmTUOQlsp6EbRbzXYCB37zQRGfx1UxznJ4dR\nYRKIfKS8kwKBgFvyBxYq0pwFAYjafbDqVmKI0j/4rM9LZ2r8HB9PT71G/DM2OVA7\nkfPMMhUTIQrbbRgtg4LPg7TBq0eLgcA6mvYmtjFcSmgk8OjY4Gfz3wOmte/N7YFp\npd1Nj8XHRwU+xhjIQv+YPv3DyG3ZatwUeBiOTiOaiuPmwFuCwbdCca9pAoGBALI/\nJ8Lc3ThSkMax/0Ewj1lXhkkZk/cmM3q2sejFs+qES6sgjmx4r91eH0Lb3uI5nfye\nh8ekgShNPn3vEYCmB/dRQOA3oGn0qPM3CSuUcKdxUiFKPKV3UxylThBcv7ywkU85\n3FFp1pk+wXc5WzoVq9Nj3Fuw1CC4ekvxxli06x7JAoGBAM5sRnUoD4lGioNabIoe\nU7PIQczC4lgMAXUfhLRPsLXvDaAeIuPmgkNgQF/IzIjLaXCBYtsL7h9A+2oHrfC5\nXO4H+FmX+fQIG8jS4PQchSm0WXoWWq2kDZLO9E6+gRGWY1crBeUfz4N8JmB5D2sF\n76JiQi7Y6xwwhpG327BRpc02\n-----END PRIVATE KEY-----\n",
+  "client_email": "telebank@telebank.iam.gserviceaccount.com",
+  "client_id": "101026357995547152079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telebank%40telebank.iam.gserviceaccount.com"
+}
